@@ -1,0 +1,9 @@
+
+
+- In this file you will find the git commands
+
+- git status : check if we have a local repository.
+
+- git init : init an empty git repository in my project directory .git folder will be created.
+
+- git add . : add file to staging our index (. all files)
