@@ -11,3 +11,11 @@
 - git commit -m "message" : commit our changes to our local repository and a master branch is created.
 
 - git log : this command display all the commit that you have made with some extra data.
+
+- git log --graph --decorate --all --pretty=fuller : try to play with pretty property.
+
+- git remote add origin https://github.com/OussamaRZIGUEN/spring-app.git : connect the local repo to remote repo
+
+- git remote -v : check if the connection is corretly establshed
+
+- git push -u origin master : push the changes to the master remote branch
