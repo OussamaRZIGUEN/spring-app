@@ -7,3 +7,7 @@
 - git init : init an empty git repository in my project directory .git folder will be created.
 
 - git add . : add file to staging our index (. all files)
+
+- git commit -m "message" : commit our changes to our local repository and a master branch is created.
+
+- git log : this command display all the commit that you have made with some extra data.

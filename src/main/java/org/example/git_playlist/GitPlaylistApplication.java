@@ -9,7 +9,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitPlaylistApplication {
 
 	public void addData(String data) {
-		System.out.println("Java");
+		if(data.equals("Java/Spring")) {
+			System.out.println("Java/Spring");
+		}
+		System.out.println("Others");
 	}
 
 	public static void main(String[] args) {
