@@ -28,8 +28,6 @@ public class GitPlaylistApplication {
 	}
 
 	public static void main(String[] args) {
-
-
 		SpringApplication.run(GitPlaylistApplication.class, args);
 	}
 
