@@ -31,3 +31,7 @@
 - git checkout <<branch_name>> : move to branche_name.
 
 - git branch -d <<branche_name>> : remove local branch.
+
+- git ppush origin --delete <<branch_name>> : remove branch_name in the remote repo.
+
+- create a pull request if you want to merge branches remotly
