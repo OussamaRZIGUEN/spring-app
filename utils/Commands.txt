@@ -29,3 +29,5 @@
 - git branch <<branch_name>> : create a branch without checkout.
 
 - git checkout <<branch_name>> : move to branche_name.
+
+- git branch -d <<branche_name>> : remove local branch.
