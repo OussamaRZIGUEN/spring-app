@@ -19,3 +19,13 @@
 - git remote -v : check if the connection is corretly establshed
 
 - git push -u origin master : push the changes to the master remote branch
+
+- git clone "url" : clone a remote repo to your local machine
+
+- git pull origin master : reflect the changes in the remote repo to the local repo
+
+- git branch : lists all the branches in the local repo.
+
+- git branch <<branch_name>> : create a branch without checkout.
+
+- git checkout <<branch_name>> : move to branche_name.
